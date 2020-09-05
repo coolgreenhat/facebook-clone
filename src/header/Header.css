@@ -24,6 +24,7 @@
 
 .header__left > img {
   height: 40px;
+
 }
 
 .header__input > input {
@@ -75,7 +76,7 @@
 }
 
 .header__info > h4 {
-  margin-top: 10px;
+  margin: 10px 10px;
 }
 
 .header__right {
